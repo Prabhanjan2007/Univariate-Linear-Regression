@@ -54,7 +54,7 @@ plt.show()
 ```
 ## Output
 
-![mai-exp9_page-0001](https://github.com/user-attachments/assets/f9a7e57d-976d-4144-95bb-be6240c4c321)
+![mai-exp9_page-0001](https://github.com/user-attachments/assets/3c92f44f-ed29-49ae-b812-c9e6e795bfa2)
 
 </br>
 </br>
